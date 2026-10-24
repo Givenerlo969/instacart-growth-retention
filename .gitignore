@@ -1,0 +1,23 @@
+# Raw dataset (too large for GitHub, download from Kaggle - see README)
+data/
+archive/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
