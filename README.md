@@ -2,9 +2,20 @@
 
 **End-to-end data science project: churn prediction, next-basket recommendation and customer segmentation on 3.4M Instacart orders.**
 
-**[▶ Live Dashboard](https://USERNAME.github.io/instacart-growth-retention/)** · [Notebook](notebook/instacart_analysis.ipynb)
+**[▶ Live Dashboard](https://Givenerlo969.github.io/instacart-growth-retention/)** · [Notebook](notebook/instacart_analysis.ipynb)
 
-![Dashboard preview](images/dashboard.png)
+![Overview dashboard](images/overview-dashboard.png)
+
+<table>
+  <tr>
+    <td width="50%"><img src="images/customer-segments.png" alt="Customer segments"></td>
+    <td width="50%"><img src="images/overview-dashboard-dark-mode.png" alt="Dark mode"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Customer segments</sub></td>
+    <td align="center"><sub>Dark mode</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -129,7 +140,7 @@ Python · pandas · NumPy · scikit-learn · XGBoost · SHAP · matplotlib · se
 **Option B: Local**
 
 ```bash
-git clone https://github.com/USERNAME/instacart-growth-retention.git
+git clone https://github.com/Givenerlo969/instacart-growth-retention.git
 cd instacart-growth-retention
 pip install -r requirements.txt
 ```
@@ -140,4 +151,4 @@ Place the CSV files in a `data/` folder, set `DATA_DIR = "data"` in the setup ce
 
 ## Author
 
-**Your Name** · Data Science student, Universitas Airlangga · [LinkedIn](https://www.linkedin.com/in/USERNAME) · [GitHub](https://github.com/USERNAME)
+**Yesa Putra Giventta** · Data Science student, Universitas Airlangga · [LinkedIn](https://www.linkedin.com/in/yesa-putra-giventta-338429323/) · [GitHub](https://github.com/Givenerlo969)
